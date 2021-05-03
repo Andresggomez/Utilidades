@@ -1,5 +1,6 @@
 # Utilidades
-Some command lines codes very useful in Linux
+Some very useful command line code in Linux
+
 
 Entorno Virtual en Python
 
